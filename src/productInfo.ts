@@ -34,6 +34,12 @@ export const products: AdobeProduct[] = [
       { id: '2018', name: 'CC 2018 (15.0)' },
       { id: '15.1', name: 'CC (15.1)' },
       { id: '16.0', name: 'CC (16.0)' },
+      { id: '16.1', name: '16.1' },
+      { id: '17.0', name: '17.0' },
+      { id: '17.1', name: '17.1' },
+      { id: '17.5', name: '17.5' },
+      { id: '18.0', name: '18.0' },
+      { id: '22.0', name: '22.0' },   
     ],
   },
   {
